@@ -17,3 +17,4 @@ The micro-services required for the app. Currently identified services:
 4. leaderboard : services related to creating leader-board of activity, on a point based system (criterias to be defined)
 5. mail-services : for sending email reminder for penalties, and any other emails for user enrolling the services
 6. user-services : managing enrollment of users into the program and git access grant/revoke
+7. go-social : OMG ! Yeah, it pushes you to go beyond limits to fulfill the commitment, or else your dad will wake you in the night for not commiting code
