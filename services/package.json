@@ -1,0 +1,27 @@
+{
+  "name": "green-revolution-services",
+  "version": "1.0.0",
+  "description": "API services for green-revolution project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamvajid/green-revolution.git"
+  },
+  "keywords": [
+    "microservices",
+    "api",
+    "green-revolution",
+    "coding-challenge",
+    "commit-challenge",
+    "git-activity-monitor"
+  ],
+  "author": "Abdul Vajid KT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamvajid/green-revolution/issues"
+  },
+  "homepage": "https://github.com/iamvajid/green-revolution#readme"
+}
