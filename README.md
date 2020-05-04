@@ -1,7 +1,7 @@
 # Green-Revolution
 Helping you grow "green" online, but only on Github #MakeYourGitHubGreenAgain. An initiative to make people codictive, started during covid-19
 
-A hobby/learning project as part of the #MakeYourGitHubGreenAgain commit challenge. Yes, committing the code to monitor the code commit (yes yes, isn't it ?)
+A hobby/learning project as part of the #MakeYourGitHubGreenAgain commit challenge. Yes, committing the code to monitor the code commit (yes yes, isn't it recursive ?)
 
 App
 ===
