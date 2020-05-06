@@ -4,7 +4,7 @@ Helping you grow `green` online, but only on Github #MakeYourGitHubGreenAgain. A
 A hobby/learning project as part of the #MakeYourGitHubGreenAgain commit challenge. Yes, committing the code to monitor the code commit (yes yes, isn't it recursive ?)
 
 App
-===
+==========
 The web-app to be built in react & redux
 
 
@@ -18,3 +18,4 @@ The micro-services required for the app. Currently identified services:
 5. mail-services : for sending email reminder for penalties, and any other emails for user enrolling the services
 6. user-services : managing enrollment of users into the program and git access grant/revoke
 7. go-social : OMG ! Yeah, it pushes you to go beyond limits to fulfill the commitment, or else your dad will wake you in the night for not commiting code
+8. feed-services : The real-time feed of activities 
