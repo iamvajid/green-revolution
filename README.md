@@ -1,7 +1,7 @@
 # Green-Revolution
 Helping you grow `green` online, but only on Github #MakeYourGitHubGreenAgain. An initiative to make people codictive, started during covid-19
 
-A hobby/learning project as part of the #MakeYourGitHubGreenAgain commit challenge. Yes, committing the code to monitor the code commit (yes yes, isn't it recursive ?)
+A hobby/learning project as part of #MakeYourGitHubGreenAgain commit challenge. Yes, committing the code to monitor the code commit (yes yes, isn't it recursive ?)
 
 App
 ==========
@@ -19,3 +19,13 @@ The micro-services required for the app. Currently identified services:
 6. user-services : managing enrollment of users into the program and git access grant/revoke
 7. go-social : OMG ! Yeah, it pushes you to go beyond limits to fulfill the commitment, or else your dad will wake you in the night for not commiting code
 8. feed-services : The real-time feed of activities 
+
+
+Tech-Stacks
+===========
+
+As this is an experimentation project, you can expect a lot of chaos & un-necessary complicated, as one of the agenda of the project is to try out and mix tech-stacks in not-so-usual ways. Have you tried cooking an indian biriyani with a pasta sauce ?
+Well, trying it doesn't hurt and may reveal some new learning.
+
+
+
