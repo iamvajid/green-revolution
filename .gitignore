@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#The dirty room to try out some hacks => YES, your regular dummy code
+*.try.*
